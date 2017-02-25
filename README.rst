@@ -4,7 +4,7 @@ chkpwd_buddy
 About chkpwd_buddy
 --------------------
 chkpwd_buddy is a bash script that tries to discover current
-user password, by brute-forcing it using a list of common
+user password by brute-forcing it using a list of common
 passwords.
 
 It checks all the list's passwords using unix_chkpwd
